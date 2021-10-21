@@ -2,5 +2,5 @@
 
 1. Note:
 - Webite is built through Hugo (With theme Toha)
-- Content can be found on mster branch
+- Content can be found on master branch
 
