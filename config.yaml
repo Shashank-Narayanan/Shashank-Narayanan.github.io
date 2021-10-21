@@ -18,6 +18,8 @@ markup:
     endLevel: 6
     ordered: false
 
+# Mark down the saved public files
+publishDir: "docs"
 # At least HTML and JSON are required for the main HTML content and
 # client-side JavaScript search
 outputs:
