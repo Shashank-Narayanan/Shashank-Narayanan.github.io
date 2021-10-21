@@ -13,7 +13,7 @@ section:
 skills:
 - name: Linux
   logo: "/images/sections/skills/linux.jpg"
-  summary: "TO-BE IMPLEMENTED"
+  summary: "Well versed with Linux operating system. Capable of writing bash/scripts"
 
 - name: Cloud Computing
   logo: "/images/sections/skills/cloud.png"
