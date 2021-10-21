@@ -1,0 +1,37 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Linux
+  logo: "/images/sections/skills/linux.jpg"
+  summary: "TO-BE IMPLEMENTED"
+
+- name: Cloud Computing
+  logo: "/images/sections/skills/cloud.png"
+  summary: "Have experience with Azure and AWS; infact this website has been hosted by AWS services"
+
+- name: Java Programming
+  logo: "/images/sections/skills/java.png"
+  summary: "TO-BE IMPLEMENTED"
+
+- name: Python Programming
+  logo: "/images/sections/skills/python.png"
+  summary: "TO-BE IMPLEMENTED"
+
+- name: C Programming
+  logo: "/images/sections/skills/C.png"
+  summary: "TO-BE IMPLEMENTED"
+
+- name: Go Programming
+  logo: "/images/sections/skills/go.png"
+  summary: "Capable of writing scalable, testable, and maintainable program."
+  url: "https://golang.org/"

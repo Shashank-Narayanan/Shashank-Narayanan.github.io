@@ -1,0 +1,42 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: JPMorgan Chase & Co.
+    url: "https://www.jpmorganchase.com"
+    location: Virtual 
+    # company overview
+    overview: JPMorgan Chase & Co. is a widely recognized company for banking and financial purposes.
+  positions:
+  - designation: Software Internship
+    start: May 2020 
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Aug 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design and develop dataspreads using SQL 
+    - Facilitated financial data feeds, Frontend Web Development, and Data Visualization with Perspective
+    - Implemented JPMorgan Chace framework, tools, and interfaces
+    - Worked in a team to implement both front and back end
+
+- company:
+    name: Undergraduate Research/Independent Study
+    url: "https://eng.vt.edu/academics/undergraduate-students/undergraduate-research-independent-study.html"
+    location: Virginia Tech Campus
+    overview: Worked to improve "Blacksburg Transit" - an app to map Virginia Tech bus scedule
+  positions:
+  - designation: Undergraduate Reasearch 
+    start: May 2016
+    end: Dec 2017
+    responsibilities:
+    - Worked in python, JS, CSS, and html
+    - Implemented front end for web application

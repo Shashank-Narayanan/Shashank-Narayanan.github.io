@@ -1,0 +1,20 @@
+# some information about you
+name: "Shashank Narayanan"
+nickname: "Shashank Narayanan"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/Virginia_Tech_pic.jpg"
+#background: "images/author/Young_Shashank.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "Shashankn18@vt.edu"
+  phone: "123-456-789"
+
+# some summary about what you do
+summary:
+  - I am a Developer
+  - I am a Creator and Innovator
+  - I love building servers
+  - I work on open-source projects
+  - I love to work in teams
+  - They call me sundar pichai's protege
